@@ -4,7 +4,7 @@
 </p>
 
 ## Sobre mí
-Mi nombre es Tomás Castiglioni, soy un **Desarrollador Front-end** autodidacta. Actualmente estudiando la carrera de Analista Programador Universitario en la Universidad Nacional de La Plata. Inicié en el mundo de la programación en 2020, y desde ese momento he puesto todas mis energías para cada día aprender más.
+Mi nombre es Tomás Castiglioni, soy un **Desarrollador Front-end**. Actualmente estudiando la carrera de Analista Programador Universitario en la Universidad Nacional de La Plata. Inicié en el mundo de la programación en 2020, y desde ese momento he puesto todas mis energías para cada día aprender más.
 
 ## Skills 
 
