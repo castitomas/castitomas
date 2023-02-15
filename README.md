@@ -3,8 +3,8 @@
   <img src="hellothere.gif" alt="animated" />
 </p>
 
-## Sobre mí
-Mi nombre es Tomás Castiglioni, soy un **Desarrollador .Net**. Actualmente estudiando la carrera Licenciatura en Sistemas en la Universidad Nacional de La Plata. Inicié en el mundo de la programación en 2020, y desde ese momento he puesto todas mis energías para cada día aprender más.
+## About me
+My name is Tomas Castiglioni, I'm a **.Net Developer**. Currently studying a Bachelor's degree in Computer Science in the National University of La Plata. I started in the world of programming in 2020, and since then I have put all my energies to learn more everyday.
 
 ## Skills 
 
