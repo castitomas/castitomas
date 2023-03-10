@@ -3,7 +3,7 @@
   <img src="hellothere.gif" alt="animated" />
 </p>
 
-## About me :suspect:
+## About me 🙋‍♂️
 
 My name is Tomas Castiglioni, I'm a **.Net Developer**. Currently studying a Bachelor's degree in Computer Science in the National University of La Plata. I started in the world of programming in 2020, and since then I have put all my energies to learn more everyday.
 
