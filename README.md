@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About me 
 
-My name is Tomas Castiglioni, I'm a **Data Analyst**. Currently studying a Bachelor's degree in Computer Science in Universidad Nacional de La Plata. I started in the world of programming in 2020, and since then I have put all my energies to learn more everyday.
+My name is Tomas Castiglioni, I'm a **Front-End Developer**. Currently studying a Bachelor's degree in Computer Science in Universidad Nacional de La Plata. I started in the world of programming in 2020, and since then I have put all my energies to learn more everyday.
 
 ## 🖥️ Skills 
 
